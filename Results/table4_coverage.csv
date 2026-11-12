@@ -1,0 +1,4 @@
+configuration,pixel coverage @1% FPR,pixel coverage @5% FPR
+A baseline (64 px),"0.141 [0.084,0.203]","0.391 [0.309,0.473]"
+F (32 px + mask),"0.313 [0.236,0.392]","0.653 [0.564,0.732]"
+F-N (F + normalisation),"0.369 [0.286,0.450]","0.739 [0.659,0.803]"
